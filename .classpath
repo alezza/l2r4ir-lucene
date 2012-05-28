@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lucene-core-3.5.0.jar"/>
+	<classpathentry kind="lib" path="Lucene-BM25-1.0.jar"/>
+	<classpathentry kind="lib" path="JTS_Test.jar"/>
+	<classpathentry kind="lib" path="jts-1.12.jar"/>
+	<classpathentry kind="lib" path="jtsio-1.12.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Tese"/>
+	<classpathentry kind="lib" path="/jts"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
