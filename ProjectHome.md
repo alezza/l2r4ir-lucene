@@ -1,0 +1,1 @@
+Código para o Apache Lucene para calculo das features de L2R4GIR com o dataset do GeoCLEF.
